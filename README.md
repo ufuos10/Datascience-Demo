@@ -1,3 +1,5 @@
+[![Python 3.11](https://github.com/ufuos10/Datascience-Demo/actions/workflows/main.yml/badge.svg)](https://github.com/ufuos10/Datascience-Demo/actions/workflows/main.yml)
+
 # Datascience-Demo
 This is my portfolio project
 
